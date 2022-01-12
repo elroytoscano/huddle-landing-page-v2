@@ -439,8 +439,8 @@ Ensure the default browser behavior of the `hidden` attribute.
   margin-right: auto;
 }
 
-.mb-12{
-  margin-bottom: 3rem;
+.mb-10{
+  margin-bottom: 2.5rem;
 }
 
 .mr-auto{
@@ -785,10 +785,6 @@ Ensure the default browser behavior of the `hidden` attribute.
     max-width: 32rem;
   }
 
-  .lg\:max-w-2xl{
-    max-width: 42rem;
-  }
-
   .lg\:flex-row{
     flex-direction: row;
   }
@@ -869,16 +865,12 @@ Ensure the default browser behavior of the `hidden` attribute.
 }
 
 @media (min-width: 1440px){
-  .xl\:mb-16{
-    margin-bottom: 4rem;
+  .xl\:mb-20{
+    margin-bottom: 5rem;
   }
 
-  .xl\:max-w-2xl{
-    max-width: 42rem;
-  }
-
-  .xl\:max-w-xl{
-    max-width: 36rem;
+  .xl\:max-w-3xl{
+    max-width: 48rem;
   }
 
   .xl\:justify-start{
