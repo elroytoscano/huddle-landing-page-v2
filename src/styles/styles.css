@@ -571,11 +571,6 @@ Ensure the default browser behavior of the `hidden` attribute.
   padding-right: 1.5rem;
 }
 
-.px-3{
-  padding-left: 0.75rem;
-  padding-right: 0.75rem;
-}
-
 .px-4{
   padding-left: 1rem;
   padding-right: 1rem;
@@ -689,6 +684,11 @@ Ensure the default browser behavior of the `hidden` attribute.
     padding-right: 2.5rem;
   }
 
+  .sm\:px-8{
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+
   .sm\:text-xl{
     font-size: 1.25rem;
     line-height: 1.75rem;
@@ -696,12 +696,8 @@ Ensure the default browser behavior of the `hidden` attribute.
 }
 
 @media (min-width: 960px) and (max-width: 1199px){
-  .md\:w-32{
-    width: 8rem;
-  }
-
-  .md\:max-w-md{
-    max-width: 28rem;
+  .md\:max-w-lg{
+    max-width: 32rem;
   }
 
   .md\:max-w-xl{
@@ -732,9 +728,9 @@ Ensure the default browser behavior of the `hidden` attribute.
     padding-right: 2rem;
   }
 
-  .md\:text-2xl{
-    font-size: 1.5rem;
-    line-height: 2rem;
+  .md\:text-3xl{
+    font-size: 1.875rem;
+    line-height: 2.25rem;
   }
 
   .md\:text-lg{
@@ -765,8 +761,8 @@ Ensure the default browser behavior of the `hidden` attribute.
     margin-right: auto;
   }
 
-  .lg\:w-32{
-    width: 8rem;
+  .lg\:w-48{
+    width: 12rem;
   }
 
   .lg\:w-2\/5{
@@ -803,6 +799,10 @@ Ensure the default browser behavior of the `hidden` attribute.
 
   .lg\:bg-hero-desktop{
     background-image: url('/src/images/bg-desktop.svg');
+  }
+
+  .lg\:p-16{
+    padding: 4rem;
   }
 
   .lg\:p-0{
@@ -858,10 +858,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 @media (min-width: 1440px){
   .xl\:mb-16{
     margin-bottom: 4rem;
-  }
-
-  .xl\:w-32{
-    width: 8rem;
   }
 
   .xl\:max-w-2xl{
