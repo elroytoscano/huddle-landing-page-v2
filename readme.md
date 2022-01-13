@@ -28,7 +28,7 @@ Build a deskop and mobile layout of Huddle Landing Page.
 
 ### Link
 
-[Solution Link](https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9)
+[Solution Link](https://huddle-landing-page-frontend-mentor-challenge.netlify.app/)
 
 ## Process
 
