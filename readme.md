@@ -1,4 +1,4 @@
-# Frontend Mentor - Clipboard landing page
+# Frontend Mentor - Huddle landing page
 
 This is a solution to the [Huddle landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0).
 
@@ -24,7 +24,7 @@ Build a deskop and mobile layout of Huddle Landing Page.
 
 ### Challenge Screenshot
 
-![Design preview for the Clipboard landing page coding challenge](./desktop-design.jpg)
+![Design preview for the Huddle landing page coding challenge](./desktop-design.jpg)
 
 ### Link
 
